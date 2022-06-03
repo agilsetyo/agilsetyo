@@ -1,5 +1,5 @@
 # Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
-My name is [Agil Setyo Anggoro](https://www.youtube.com/channel/UCfAKjnaWVoXMYqfNh4mkw-g), I am a final year statistics student. I'm from Indonesia, living in Semarang and currently studying at Diponegoro University. You can find me on [LinkedIn](https://www.linkedin.com/in/agilsetyoanggoro/).
+My name is [Agil Setyo Anggoro](https://agilsetyo.github.io/), I am a final year statistics student. I'm from Indonesia, living in Semarang and currently studying at Diponegoro University. You can find me on [LinkedIn](https://www.linkedin.com/in/agilsetyoanggoro/).
 I am interested in data analytics and machine learning.
 
 ## &#x270d; My Projects
@@ -34,6 +34,11 @@ Rakyat Indonesia Tbk.
    - Responsible for coordinating the making of Videographics and Youtube accounts
    - Responsible for Website rejuvenation
    - Complete projects for clients according to applicable (Standard Operating Procedures)
+#### 3. [Badan Pusat Statistik](https://tangselkota.bps.go.id/) | Integrasi Pengolahan Diseminasi Statistik | Kota Tangerang Selatan `Jan'2021 - Feb'2021`
+   - Receiving, managing, and processing data in the form of infographics and documents used as statistical references
+   - Scan a map of the location of the city of South Tangerang
+   - Conducting data collection and archiving at the (BPS) library in South Tangerang city
+
 ---
 
 ### Languages and Tools:
