@@ -6,6 +6,7 @@ I am interested in data analytics and machine learning.
 In each repository, you can read more about my projects. You also can read my writings (in Bahasa Indonesia) on [my Medium](https://medium.com/@Dataagil).
 
 ## About me:
+I am a final-year student at Diponegoro University. Department of Statistics Diponegoro University which has an interest in Economics and Business. A person who likes to learn new things related to data and technology, always tries to give the benefits of his knowledge to the public interest with good public speaking and has a hobby of design and editing.
 - 🌱 I’m currently learning Python and R
 - 👯 I’m looking to collaborate as Data Analyst
 - 🤔 I’m looking for suggest for Automation and Data Analyst
