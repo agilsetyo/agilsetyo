@@ -1,9 +1,9 @@
-# Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
+# Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">
 My name is [Agil Setyo Anggoro](https://agilsetyo.github.io/), I am a final year statistics student. I'm from Indonesia, living in Semarang and currently studying at Diponegoro University. You can find me on [LinkedIn](https://www.linkedin.com/in/agilsetyoanggoro/).
 I am interested in data analytics and machine learning.
 
 ## &#x270d; My Projects
-In each repository, you can read more about my projects. You also can read my writings (in Bahasa Indonesia) on [my Medium](https://medium.com/@Dataagil).
+In each repository, you can read more about my projects. You also can read my writings (in Bahasa Indonesia) on [my Medium](https://medium.com/@agilsetyo).
 
 ## About me:
 I am a final-year student at Diponegoro University. Department of Statistics Diponegoro University which has an interest in Economics and Business. A person who likes to learn new things related to data and technology, always tries to give the benefits of his knowledge to the public interest with good public speaking and has a hobby of design and editing.
