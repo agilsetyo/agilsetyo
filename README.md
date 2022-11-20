@@ -1,5 +1,5 @@
 # Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px">
-My name is [Agil Setyo Anggoro](https://agilsetyo.github.io/), I am a final year statistics student. I'm from Indonesia, living in Semarang and currently studying at Diponegoro University. You can find me on [LinkedIn](https://www.linkedin.com/in/agilsetyoanggoro/).
+My name is [Agil Setyo Anggoro](https://agilsetyo.github.io/), I am a Fresh Graduate of Statistics from Diponegoro University. I'm from Indonesia, living in South Tangerang You can find me on [LinkedIn](https://www.linkedin.com/in/agilsetyoanggoro/).
 I am interested in data analytics and machine learning.
 
 ## &#x270d; My Projects
