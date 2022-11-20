@@ -16,31 +16,28 @@ I am a Fresh Graduate of Statistics from Diponegoro University. I recently gradu
 
 ## Education:
 
-#### 1. [Universitas Diponegoro](https://www.undip.ac.id/) | Bachelor of Science - BS, Statistics | Semarang`2018-2022`
+#### 1. [Universitas Diponegoro](https://www.undip.ac.id/) | Bachelor’s degree, Statistics | Semarang`2018-2022`
    - Assistant lecturer of statistical simulation techniques
    - Assistant Lecturer of risk managements
    - Assistant Lecturer of Reggression Analysis
    - Assistant Lecturer of Econometrics
    - Statistical Method Practicum Assistant
- #### 2. [SMA N 5 Tangsel](https://www.sman5kotatangsel.sch.id/) | MIPA | Kota Tangerang Selatan `2014-2017`
+ #### 2. [SMA Negeri 5 Tangerang Selatan](https://www.sman5kotatangsel.sch.id/) | MIPA | Kota Tangerang Selatan `2014-2017`
 
 ## Work Experience:
 #### 1. [PT. Bank Rakyat Indonesia (Persero) Tbk](https://bri.co.id/) | Digital Banking Development & Operation (API Engineer) | Jakarta `Agus'2021 - Feb'2022`
-   - Make several examples of API Proxy to find out the work process flow of API         (Application Programming Interface) at PT. Bank Rakyat Indonesia Tbk.
+   - Make several examples of API Proxy to find out the work process flow of API (Application Programming Interface) at PT. Bank Rakyat Indonesia Tbk.
    - Perform RC (Response Code) Mapping for each Code Message to be displayed on other teams.
    - Create a proxy using APIGEE from PT. Bank Rakyat Indonesia Tbk. Proxy creation must refer to the Bank Indonesia specification snap document.
-   - Deepen understanding of Open API at BRIAPI internally, starting from
-understanding the development flow to implementation, especially at PT. Bank
-Rakyat Indonesia Tbk.
+   - Deepen understanding of Open API at BRIAPI internally, starting from understanding the development flow to implementation, especially at PT. Bank Rakyat Indonesia Tbk.
 #### 2. [Statistics Center UNDIP](https://scundip.org/) | Public Relation Officer | Semarang `Feb'2021 - Dec'2021`
-   - Responsible for coordinating the making of Videographics and Youtube accounts
-   - Responsible for Website rejuvenation
-   - Complete projects for clients according to applicable (Standard Operating Procedures)
+   - Responsible for coordinating the creation of video graphics, Youtube accounts, and website rejuvenation.
+   - Completed 3 projects for clients in accordance with the applicable Standard Operating Procedure (SOP), using R Studio, SPSS, Eviews, Minitab and Microsoft Excel software.
 #### 3. [Badan Pusat Statistik](https://tangselkota.bps.go.id/) | Integrasi Pengolahan Diseminasi Statistik | Kota Tangerang Selatan `Jan'2021 - Feb'2021`
-   - Receiving, managing, and processing data in the form of infographics and documents used as statistical references
-   - Scan a map of the location of the city of South Tangerang
-   - Conducting data collection and archiving at the (BPS) library in South Tangerang city
-
+   - Receive, manage, and process data in the form of infographics and documents that are used as statistical references using
+Microsoft Excel software. The activity was carried out at the Central Statistics Agency (BPS) office in South Tangerang.
+   - Conducting research with the title of monthly rainfall forecasting in the city of South Tangerang with the method of seasonal
+autoregressive integrated moving average (SARIMA) https://github.com/agilsetyo/Project-Kuliah/tree/main/SARIMA.
 ---
 
 ### Languages and Tools:
