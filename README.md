@@ -6,7 +6,8 @@ I am interested in data analytics and machine learning.
 In each repository, you can read more about my projects. You also can read my writings (in Bahasa Indonesia) on [my Medium](https://medium.com/@agilsetyo).
 
 ## About me:
-I am a final-year student at Diponegoro University. Department of Statistics Diponegoro University which has an interest in Economics and Business. A person who likes to learn new things related to data and technology, always tries to give the benefits of his knowledge to the public interest with good public speaking and has a hobby of design and editing.
+
+I am a Fresh Graduate of Statistics from Diponegoro University. I recently graduated from Diponegoro University's statistics program. My degree has helped me to improve my analytical abilities, and involvement in campus organizations has given me experience. The careers of data scientist, data engineer, and data analyst are all very appealing to me. Many businesses currently require data to develop their operations. From the data, effective analyses may be made, such as forecasting what will happen in the future. Along with analytical tools like Tableau, I have solid proficiency in some computer languages, including Python, R, and SQL. I've worked both independently and collaboratively as a member of a recognized independent campus internship program. I'm presently seeking for a job so that I may advance my career and put my talents to use in industry placements, particularly in the fields of data analysis and data science.![image](https://user-images.githubusercontent.com/80674737/202897464-b8cd5d37-e632-4406-afb2-4b24aae09969.png)
 - 🌱 I’m currently learning Python and R
 - 👯 I’m looking to collaborate as Data Analyst
 - 🤔 I’m looking for suggest for Automation and Data Analyst
