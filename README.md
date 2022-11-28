@@ -75,17 +75,9 @@ autoregressive integrated moving average (SARIMA) https://github.com/agilsetyo/P
 
 ### Connect with me:
 
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCfAKjnaWVoXMYqfNh4mkw-g#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCfAKjnaWVoXMYqfNh4mkw-g#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/agilsetyo15#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/agilsetyo15#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/agilsetyoanggoro/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/agilsetyoanggoro/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/agilstyo#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/agilstyo#gh-dark-mode-only)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agilsetyoanggoro/)
+[![](https://img.shields.io/badge/<handle>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/agilstyo/)
+
 
 [webdev]: https://github.com/agilsetyo/agilsetyo
 
