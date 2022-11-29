@@ -69,14 +69,23 @@ autoregressive integrated moving average (SARIMA) https://github.com/agilsetyo/P
 <br />
 
 ---
-## &#x1f4c8; GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agilsetyo)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ### Connect with me:
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agilsetyoanggoro/)
 [![](https://img.shields.io/badge/@agilstyo-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/agilstyo/)
+
+
+## &#x1f4c8; GitHub Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agilsetyo)](https://github.com/anuraghazra/github-readme-stats)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=agilsetyo&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="agilsetyo" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=agilsetyo&show_icons=true&locale=en&theme=tokyonight" alt="agilsetyo" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agilsetyo&&theme=tokyonight" alt="agilsetyo" /></p>
+
+
 
 
 [webdev]: https://github.com/agilsetyo/agilsetyo
