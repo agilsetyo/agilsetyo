@@ -1,4 +1,7 @@
-# Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px">
+
+<h1 align="center">Hi 👋, I'm Agil</h1>
+<h3 align="center">A passionate Data Enthusiast from Indonesia</h3>
+
 My name is [Agil Setyo Anggoro](https://agilsetyo.github.io/), I am a Fresh Graduate of Statistics from Diponegoro University. I'm from Indonesia, living in South Tangerang You can find me on [LinkedIn](https://www.linkedin.com/in/agilsetyoanggoro/).
 I am interested in data analytics and machine learning.
 
@@ -7,7 +10,12 @@ In each repository, you can read more about my projects. You also can read my wr
 
 ## About me:
 
+<img align="right" alt="Coding" width="350" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+
+
 I am a Fresh Graduate of Statistics from Diponegoro University. I recently graduated from Diponegoro University's statistics program. My degree has helped me to improve my analytical abilities, and involvement in campus organizations has given me experience. The careers of data scientist, data engineer, and data analyst are all very appealing to me. Many businesses currently require data to develop their operations. From the data, effective analyses may be made, such as forecasting what will happen in the future. Along with analytical tools like Tableau, I have solid proficiency in some computer languages, including Python, R, and SQL. I've worked both independently and collaboratively as a member of a recognized independent campus internship program. I'm presently seeking for a job so that I may advance my career and put my talents to use in industry placements, particularly in the fields of data analysis and data science.
+
+
 - 🌱 I’m currently learning Python and R
 - 👯 I’m looking to collaborate as Data Analyst
 - 🤔 I’m looking for suggest for Automation and Data Analyst
@@ -77,7 +85,6 @@ autoregressive integrated moving average (SARIMA) https://github.com/agilsetyo/P
 
 
 ## &#x1f4c8; GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agilsetyo)](https://github.com/anuraghazra/github-readme-stats)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=agilsetyo&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="agilsetyo" /></p>
 
