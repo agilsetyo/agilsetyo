@@ -12,12 +12,12 @@ In each repository you can read more about my projects or visit [My Portfolio](h
 
 <img align="right" alt="Coding" width="350" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
-I am a fresh graduate of statistics from Diponegoro University. My degree has helped me to improve my analytical skills, and involvement in campus organizations has given me experience working in teams as well as individually. I have an interest in economics and business topics such as risk management, financial analysis and the application of statistical modeling to solving problems in financial markets. The career of a Data Scientist, Data Analyst, and Data Engineer is an interesting profession for me. Many businesses today need data to grow their operations from these data an effective analysis can be carried out such as predicting what will happen in the future. I have strong proficiency in several computer languages, including Python, R, and SQL. I have worked both independently and collaboratively as a participant in the “Magang Kampus Merdeka.” I am currently looking for a job so that I can advance my career and put my talents to use at work.
+I am a fresh graduate in statistics from Diponegoro University with experience in data analysis, risk management, teamwork, and completing data-related projects. I have a strong interest and desire to work in the fields of Data Analytics, Financial Analysis, and Risk Management. Thoroughly likes to learn new things and has good data analysis. I got this ability when I joined organizations on campus and experienced it during internships. So, I am looking for an opportunity as a Data Analyst, Data Science, or Business Analyst.
 
 
 - 🌱 I’m currently learning Python and R
 - 👯 I’m looking to collaborate as Data Analyst
-- 🤔 I’m looking for suggest for Automation and Data Analyst
+- 🤔 I’m looking for suggestions for Data Analyst, Data science, or Business Analyst.
 - 💬 Ask me about anything
 - 📫 How to reach me: agilsetyo15@gmail.com
 
