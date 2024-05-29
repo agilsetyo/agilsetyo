@@ -30,6 +30,8 @@ I am a fresh graduate in statistics from Diponegoro University with experience i
 [<img align="left" alt="Excel" width="30px" src="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/a8/fd/5a/a8fd5a84-c6f1-355f-3b9f-6e86598efaa3/XCEL.png/1200x630bb.png" style="padding-right:10px;" />](https://www.microsoft.com/en-us/microsoft-365/excel)
 [<img align="left" alt="Power BI" width="30px" src="https://powerbi.microsoft.com/pictures/application-logos/svg/powerbi.svg" style="padding-right:0px;" />](https://www.microsoft.com/en-us/power-platform/products/power-bi/getting-started-with-power-bi)
 [<img align="left" alt="Tableau" width="50px" src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" style="padding-right:10px;" />](https://www.tableau.com/)
+[<img align="left" alt="Looker Studio" width="50px" src="https://www.svgrepo.com/show/354012/looker-icon.svg" style="padding-right:10px;" />](https://lookerstudio.google.com/)
+
 
 <br />
 <br />
