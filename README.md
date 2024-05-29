@@ -50,6 +50,3 @@ I am a fresh graduate in statistics from Diponegoro University with experience i
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agilsetyo&&theme=tokyonight" alt="agilsetyo" /></p>
 
-
-
-#[webdev]: https://www.r-project.org/
