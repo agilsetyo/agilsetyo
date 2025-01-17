@@ -12,8 +12,7 @@ In each repository you can read more about my projects or visit [My Portfolio](h
 
 <img align="right" alt="Coding" width="350" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
-I am a fresh graduate in statistics from Diponegoro University with experience in data analysis, risk management, teamwork, and completing data-related projects. I have a strong interest and desire to work in the fields of Data Analytics, Financial Analysis, and Risk Management. Thoroughly likes to learn new things and has good data analysis. I got this ability when I joined organizations on campus and experienced it during internships. So, I am looking for an opportunity as a Data Analyst, Data Science, or Business Analyst.
-
+I am a Statistics graduate from Diponegoro University with a passion for data analysis, financial analysis, and risk management. I bring experience in credit modeling, risk management, data-driven project completion, and effective collaboration. I am meticulous, eager to learn, and proficient in data analysis. I am currently seeking opportunities as a Data Analyst, Data Scientist, or Business Analyst.
 
 - 🌱 I’m currently learning Python and R
 - 👯 I’m looking to collaborate as Data Analyst
