@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Agil</h1>
 <h3 align="center">A passionate Data Enthusiast from Indonesia</h3>
 
-My name is [Agil Setyo Anggoro](https://agilsetyo.github.io/), I am a Fresh Graduate of Statistics from Diponegoro University. I'm from Indonesia, living in South Tangerang You can find me on [LinkedIn](https://www.linkedin.com/in/agilsetyoanggoro/).
+My name is [Agil Setyo Anggoro](https://agilsetyo.github.io/), My name is Agil Setyo Anggoro, a Statistics graduate from Diponegoro University with expertise in data analysis, financial analysis, and risk management. I have experience in credit modeling, data-driven projects, and system implementation. Currently, I am seeking opportunities as a Data Analyst, Data Scientist, or Business Analyst to leverage my skills in Python, R, SQL, and data visualization tools. I'm from Indonesia, living in South Tangerang You can find me on [LinkedIn](https://www.linkedin.com/in/agilsetyoanggoro/).
 I am interested in data analytics and machine learning.
 
 ## &#x270d; My Projects
